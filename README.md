@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Adrián Garrido
+Ingeniero de Telecomunicaciones (ETSI Sevilla) especializado en redes, infraestructuras, cloud y automatización.
 
-<!--
-**Adriangr7/Adriangr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente trabajando en proyectos de:
+- **Redes y routing** (IPv4/IPv6, OSPF, BGP)
+- **Data Center / Campus networks**
+- **Automatización con Ansible, Bash y Python**
+- **Cloud fundamentals y seguridad de red**
 
-Here are some ideas to get you started:
+💼 Mira mis proyectos destacados más abajo 👇  
+📌 LinkedIn: [linkedin.com/in/adrian-garrido-136343334](https://www.linkedin.com/in/adrian-garrido-136343334)  
+📫 Email: *tu-email*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- **Proyecto-Red-Campus-Universitario**
+- **AnalizadorParametrosRed**
+- *(etc.)*
