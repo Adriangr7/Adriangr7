@@ -9,7 +9,7 @@ Ingeniero de Telecomunicaciones (ETSI Sevilla) especializado en redes, infraestr
 
 💼 Mira mis proyectos destacados más abajo 👇  
 📌 LinkedIn: [linkedin.com/in/adrian-garrido-136343334](https://www.linkedin.com/in/adrian-garrido-136343334)  
-📫 Email: *tu-email*
+📫 Email: adrian2002.ag21@gmail.com
 
 ## Proyectos destacados
 - **Proyecto-Red-Campus-Universitario**
