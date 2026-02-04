@@ -76,8 +76,6 @@ Tecnologías y conceptos implementados:
 
 - Grado en Ingeniería de las Tecnologías de Telecomunicación – Universidad de Sevilla (ETSI)
 - Preparación para **Cisco CCNA** (examen próximo)
-- Cursos en hack4u.io (Linux, Introducción al Hacking)
-- Cursos en Mastermind (Redes informáticas, Hacking WiFi)
 - **Inglés:** B2 (Aptis ESOL – British Council, 2025)
 
 ---
