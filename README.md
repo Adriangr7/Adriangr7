@@ -1,16 +1,6 @@
 # Adrián Garrido Real
 
-Ingeniero de Telecomunicaciones (ETSI Sevilla) especializado en **redes, infraestructuras, cloud y automatización**, con especial interés en **ciberseguridad** y **entornos cloud**, áreas que, aunque no siempre se profundizan en la carrera, forman parte de mis principales motivaciones profesionales.
-
-🔭 Actualmente trabajo y desarrollo proyectos relacionados con:
-
-- Redes y routing avanzado (IPv4/IPv6, OSPF, BGP)
-- Diseño de redes de Campus, Data Center y arquitecturas escalables
-- Automatización de infraestructuras con Ansible, Bash y Python
-- Cloud fundamentals, virtualización y seguridad de red
-- Data Center moderno, VXLAN EVPN y conceptos de SDN
-
----
+Ingeniero de Telecomunicaciones (ETSI Sevilla) especializado en **comunicaciones, redes, infraestructuras y automatización**, con especial interés en **ciberseguridad** y **entornos cloud**, áreas que, aunque no siempre se profundizan en la carrera, forman parte de mis principales motivaciones profesionales.
 
 ## 🧠 Proyectos destacados
 
