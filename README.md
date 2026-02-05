@@ -10,7 +10,7 @@ Proyecto de Fin de Grado enfocado en el **análisis comparativo del rendimiento 
 - IPv6 nativo proporcionado por el operador
 - Soluciones alternativas en redes sin soporte IPv6 (túneles y VPNs)
 
-Se analizaron parámetros como **latencia, pérdida de paquetes, jitter, tiempos de resolución DNS, entre otros**, con el objetivo de determinar la solución más **eficiente y óptima** en cada escenario.
+Se analizaron parámetros como **latencia, pérdida de paquetes, jitter, tiempos de resolución DNS, entre otros.** Todo con el objetivo de determinar la solución más **eficiente y óptima** en cada escenario.
 
 📌 **Calificación obtenida:** 10 (Sobresaliente)  
 📌 **Estado:** Proyecto finalizado y documentado (pendiente de subida completa al repositorio)
